@@ -1,0 +1,8 @@
+.image {
+    filter: drop-shadow(0em 0em 1em white);
+}
+
+.title {
+    font-size: 55px;
+    text-shadow: 4px 4px 5px rgb(255, 0, 0);
+}
